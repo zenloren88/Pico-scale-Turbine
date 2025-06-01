@@ -93,6 +93,12 @@ To further this research, the first step should be 3D modeling and printing the 
 <br> <br>Although this paper focuses on the residential sector, presenting a commercially available product for the forward thinking consumer, the application of this technology in the commercial and industrial sector offers even greater viability. Their large, consistent, and often pressurized water flows- used in cooling systems, manufacturing processes, and sanitation, provide a more frequent energy source. The presence of dedicated utility rooms and filtration systems further simplifies turbine installation and maintenance. Additionally, higher heads and greater flows achieved through multi floor and industrial grade machinery increase wastewater energy output.
 <br> <br>Despite the numerous studies and computer modeling needed to suggest a probabilistic- and more realistic, net benefit to implementing this innovative technology, the long term benefits, and its theoretical potential for Toronto underscores the viability of wastewater pico-hydropower as the next decentralized and sustainable energy solution.
 </p>
+<h3>References</h3>
+    <img src="./images/r1.png" alt="references1" />
+    <img src="./images/r2.png" alt="references2" />
+    <img src="./images/r3.png" alt="references3" />
+
+
 
   `,
  about: `
